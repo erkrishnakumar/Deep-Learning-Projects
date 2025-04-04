@@ -1,0 +1,7 @@
+soundfile==0.10.3.post1
+torch>=2.0.0
+transformers
+argparse==1.4.0
+tokenizers
+pydub
+tqdm
